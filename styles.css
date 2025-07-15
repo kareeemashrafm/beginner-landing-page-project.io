@@ -56,7 +56,7 @@ font-weight: bold;
 .hero{
 
   display: flex;
-  
+  justify-content: center;
   flex-direction: row;
   gap: 350px;
   width: auto;
